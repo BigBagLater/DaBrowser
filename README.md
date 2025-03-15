@@ -1,10 +1,6 @@
 # DaBrowser - Free Anti-Detect Browser
 
-![DaBrowser Logo](assets/Profile_Logo.png)
-
 DaBrowser is a lightweight, open-source anti-detect browser that allows users to create unlimited browser profiles, each with its own proxy and unique fingerprint. Designed for anonymity and security, it ensures seamless multi-account management while preventing tracking.
-
-![DaBrowser Background](assets/Background1.png)
 
 ## Features
 - Unlimited browser profiles
